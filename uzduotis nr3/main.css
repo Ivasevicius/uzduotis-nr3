@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 350px;
+    background-image: url(https://images.unsplash.com/photo-1620812097331-ff636155488f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+    background-repeat:repeat;
+}
+
+.header {    
+  background-color: #b8cb21;
+  padding: 20px;
+  margin: 20px 0 0 0;
+  
+           
+}
+
+.nav {
+    position: absolute;
+    right: 350px;
+    top: 100px;
+}
+
+a { 
+    margin-right: 50px;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+.section {
+    display: flex;
+    background-color: white;
+    color: #b8cb21;
+}
+
+
+.who {
+    border-right: 2px solid red;
+    margin: 30px;
+    width: 40%;
+    padding: 0 30px;
+    
+}
+
+.pht1{
+    width: 400px;
+}
+
+button { 
+    padding: 10px;
+    background-color: #b8cb21;
+    border: none;
+    color: white;
+    font-weight: bold;
+    float: right;
+}
+
+.what {
+    position:static;
+    float: left;
+    margin: 30px 50px 0 0px;
+ }
+
+.pht2 {
+    width: 300px;
+    float: left;
+    padding-right: 10px;
+    
+}
+
+ul {
+    float: left; 
+    padding: 0 20px;
+}
+
+.button2 {
+    float: right;
+    margin-top: 150px;
+    
+}
+
+.section-contact {
+    display: flex;
+    font-size: 16px;
+}
+
+.google-maps {
+    margin: 0;
+    
+}
+
+.contact-h1 {
+    
+    margin: 10px;
+    color: #b8cb21;
+}
+
+.contact-form {
+    
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    
+}
+
+
+
+li {
+    padding: 5px;
+}
+
+.p-contact {
+    font-size: 14px;
+}
+
+label {
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 10px;
+    
+}
+
+input {
+    
+    margin: 5px;
+    margin-right: 0px;
+    
+}
+
+.checkbox {
+    margin: 5px;
+    display:flex;
+       
+       
+}
+
+.input1 {
+    
+    flex-wrap: wrap;
+    text-align: center;
+    
+    padding: 10px;
+}
+
+.input2 {
+    
+    flex-wrap: wrap;
+    text-align: center;
+    
+    padding: 10px;
+}
+
+.newsletter {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.input12 {
+    margin-right: 150px;
+}
+
+
+
+
+
+
+
+
+
+    
+   
+
+
+
+
+
+
+
+
+
+
